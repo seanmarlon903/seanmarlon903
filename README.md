@@ -1,13 +1,12 @@
-# Hi there, I'm Sean Marlon 👋
+ Hi!, I'm Sean Marlon 👋
 
 🌱 I’m currently learning **React, SQL, and Cloud Computing**  
 💻 Passionate about **web & mobile development**  
 📱 Working on projects that help **education and the community**  
 🎯 Goal: To grow as a developer and build impactful apps  
 
----
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -16,16 +15,13 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=fff&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
 
----
 
-## 📊 GitHub Stats
+
+📊 GitHub Stats
 ![Sean Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmarlon903&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmarlon903&layout=compact&theme=tokyonight)
 
----
 
-## 🔗 Connect with Me
-📧 Email: *your.email@example.com*  
-🌐 Portfolio: *[your-portfolio-link](https://yourwebsite.com)*  
-# psychic-chainsaw
+🔗 Connect with Me
+📧 Email: botonseanmarlon@gmail.com
