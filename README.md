@@ -1,6 +1,6 @@
  Hi!, I'm Sean Marlon 👋
 
-🌱 I’m currently learning **React, SQL, and Cloud Computing**  
+🌱 I’m currently learning **React, SQL, and UI/UX**  
 💻 Passionate about **web & mobile development**  
 📱 Working on projects that help **education and the community**  
 🎯 Goal: To grow as a developer and build impactful apps  
