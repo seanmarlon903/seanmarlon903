@@ -25,5 +25,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmarlon903&layout=compact&theme=tokyonight)
 
 
-🔗 Connect with Me
-📧 Email: botonseanmarlon@gmail.com
