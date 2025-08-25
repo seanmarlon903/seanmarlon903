@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Sean Marlon </h1>
 
 <p align="center">
-  <strong>🌱 Currently learning React, SQL, and UI/UX</strong><br/>
+  🌱 Currently learning React, SQL, and UI/UX</strong><br/>
   💻 Passionate about <strong>Web & UX/UI Design</strong><br/>
   📱 Building projects that help <strong>education and the community</strong><br/>
   🎯 Goal: Grow as a developer and create impactful apps
