@@ -2,7 +2,7 @@
 
 <!-- Rainbow Cat Banner (keeps proportions, not stretched) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Rainbow Cat" height="150" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Rainbow Cat" height="150" width="600" />
 </p>
 
 🌱 Currently learning React, SQL, and UI/UX <br/>
