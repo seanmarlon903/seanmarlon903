@@ -3,7 +3,7 @@
 <img align="left" alt="Nyan Cat" width="100" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif">
 <h1 align="center">Hi! I'm Sean Marlon </h1>
 
-🌱 Currently learning React, SQL, and UI/UX <br/>
+🌱 Currently learning React and JavaScript <br/>
 💻 Passionate about <strong>Web & UX/UI Design</strong> <br/>
 📱 Building projects that help <strong>education and the community</strong> <br/>
 🎯 Goal: Grow as a developer and create impactful apps
