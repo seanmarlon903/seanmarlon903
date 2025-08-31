@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Sean Marlon </h1>
-
+<img src="./nyan.svg" width="300" alt="Flying Rainbow Cat" />
 
   🌱 Currently learning React, SQL, and UI/UX</strong><br/>
   💻 Passionate about <strong>Web & UX/UI Design</strong><br/>
