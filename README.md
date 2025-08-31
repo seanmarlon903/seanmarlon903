@@ -1,15 +1,17 @@
 <h1 align="center">Hi! I'm Sean Marlon </h1>
-![Rainbow Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif
 
-  🌱 Currently learning React, SQL, and UI/UX</strong><br/>
-  💻 Passionate about <strong>Web & UX/UI Design</strong><br/>
-  📱 Building projects that help <strong>education and the community</strong><br/>
-  🎯 Goal: Grow as a developer and create impactful apps
+<div align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Rainbow Cat" />
+</div>
 
+🌱 Currently learning React, SQL, and UI/UX <br/>
+💻 Passionate about <strong>Web & UX/UI Design</strong> <br/>
+📱 Building projects that help <strong>education and the community</strong> <br/>
+🎯 Goal: Grow as a developer and create impactful apps
 
+---
 
-
-🛠️ Tech Stack
+🛠️ Tech Stack  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
@@ -20,8 +22,10 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=fff&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 
+---
 
-📊 GitHub Stats
-![Sean Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmarlon903&show_icons=true&theme=tokyonight)
+📊 GitHub Stats  
+
+![Sean Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmarlon903&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmarlon903&layout=compact&theme=tokyonight)
