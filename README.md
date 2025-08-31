@@ -1,9 +1,7 @@
-<h1 align="center">Hi! I'm Sean Marlon </h1>
+<!-- Rainbow Cat on Top-Left -->
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Rainbow Cat" height="120" align="left" />
 
-<!-- Rainbow Cat Banner (keeps proportions, not stretched) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Rainbow Cat" height="150/>
-</p>
+<h1>Hi! I'm Sean Marlon</h1>
 
 🌱 Currently learning React, SQL, and UI/UX <br/>
 💻 Passionate about <strong>Web & UX/UI Design</strong> <br/>
@@ -13,7 +11,6 @@
 ---
 
 🛠️ Tech Stack  
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
