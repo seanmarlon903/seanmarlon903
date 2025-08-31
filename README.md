@@ -1,12 +1,13 @@
-<!-- Rainbow Cat on Top-Left -->
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Rainbow Cat" height="120" align="left" />
+<h1 align="center">Hi! I'm Sean Marlon </h1>
 
-<h1>Hi! I'm Sean Marlon</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Rainbow Cat" />
+</div>
 
 🌱 Currently learning React, SQL, and UI/UX <br/>
 💻 Passionate about <strong>Web & UX/UI Design</strong> <br/>
 📱 Building projects that help <strong>education and the community</strong> <br/>
-🎯 Goal: Grow as a developer and create impactful apps  
+🎯 Goal: Grow as a developer and create impactful apps
 
 ---
 
