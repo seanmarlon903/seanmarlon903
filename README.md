@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Sean Marlon </h1>
 
-<!-- Rainbow Cat Banner (smaller height) -->
+<!-- Rainbow Cat Banner (keeps proportions, not stretched) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Rainbow Cat" width="100%" height="150" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Rainbow Cat" height="150" />
 </p>
 
 🌱 Currently learning React, SQL, and UI/UX <br/>
