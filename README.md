@@ -20,6 +20,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=fff&style=flat)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=fff&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=fff)
 
 ---
 
