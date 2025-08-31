@@ -1,8 +1,7 @@
-<h1 align="center">Hi! I'm Sean Marlon </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Rainbow Cat" />
-</div>
+<!-- Nyan Cat GIF (flying on rainbow) -->
+<img align="left" alt="Nyan Cat" width="100" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif">
+<h1 align="center">Hi! I'm Sean Marlon </h1>
 
 🌱 Currently learning React, SQL, and UI/UX <br/>
 💻 Passionate about <strong>Web & UX/UI Design</strong> <br/>
